@@ -7,12 +7,12 @@ free4g private
 
 常规VPS安装脚本（Centos6.x）：
 
-wget http://sbwml.cn/vpn6;chmod +x vpn6;./vpn6
+wget https://github.com/ChicBrother/free4g/blob/master/vpn6;chmod +x vpn6;./vpn6
 
 
 Centos7.0 综合脚本（2016-05-24 自定义端口）
 
-wget http://sbwml.cn/vpn7;chmod +x vpn7;./vpn7
+wget https://github.com/ChicBrother/free4g/blob/master/vpn7;chmod +x vpn7;./vpn7
  
 自定义端口命令：port
 
@@ -22,7 +22,7 @@ wget http://sbwml.cn/vpn7;chmod +x vpn7;./vpn7
 
 附加脚本： 开启网易蜂巢6/7.0 SSH密码登录
 
-wget http://sbwml.cn/ssh163 && bash ssh163
+wget https://github.com/ChicBrother/free4g/blob/master/ssh163 && bash ssh163
 
 
 
